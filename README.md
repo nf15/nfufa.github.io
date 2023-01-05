@@ -1,8 +1,4 @@
-<head>
-  <title> Resume Portfolio </title>
-</head>
-
-<body>
+ <body>
   <header>
     <h1> Negash Fufa </h1>
     <h2> Data Scientist </h2>
