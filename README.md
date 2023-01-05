@@ -41,6 +41,7 @@
 
     <section id="skills">
       <h2>Skills</h2>
+     <p>
       <ul>
         <li>SQL</li>
         <li>Python</li>
@@ -57,6 +58,7 @@
         <li>MS Office</li>
         <li>PostgreSQL</li>
       </ul>
+     </p>
     </section>
 
     <section id="experience">
