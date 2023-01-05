@@ -33,13 +33,11 @@
   <li> Machine Learning Application </li>
   <li> Data Manipulation (Data cleaning, wrangling, aggregation and data analysis (EDA) 
  with Pandas and NumPy) </li>
-  <li> Capstone Project - Ethics/Phil issues on AI/ML</li> 
-  
-  </ul>
-  
- </p>
+  <li> Capstone Project - Ethics/Phil issues on AI/ML</li>
  
-    </section>
+ </P>
+  
+ </section>
 
     <section id="skills">
       <h2>Skills</h2>
@@ -87,4 +85,5 @@
       <h2>Education</h2>
       <h3>Masters Degree in Data Science</h3>
       <h4>Eastern University, PA - Jan 2021 - Aug 2022</h4> 
+</html>
 
