@@ -87,4 +87,5 @@ Here are my skill areas and the courses I completed in Data Science Graduate pro
     <section id="education">
       <h2>Education</h2>
       <h3>Masters Degree in Data Science</h3>
-      <h4>Eastern University, PA - Jan 2021 - Aug 2022<h4> 
+      <h4>Eastern University, PA - Jan 2021 - Aug 2022</h4> 
+</html>
