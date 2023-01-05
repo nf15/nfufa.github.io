@@ -74,13 +74,11 @@ Here are the project areas and the courses I completed in Data Science Graduate 
  - Data Analytics and SPSS</li>
             <li>2/ Delivered Economics Course: Business & Entrepreneurship.</li>
         </ul>   
-     <h3>IT Consultant - Short Term Assignments</h3>
+     <h3>IT Consultant - Short Term Assignment Tasks</h3>
      <h4>UMMS, McCormick.inc, Loyola University - Sep 2015 - Aug 2016</h4>
       <ul>  
-        <li>Worked as an IT Consultant at UMMS, McCormick and Loyola University through Robert Half & Connexus Staffing Agencies.</li>         
+        <li>Worked as an IT Consultant at UMMS, McCormick and Loyola University through Robert Half and Connexus Staffing Agencies on Seasonal Short Term Assignment Tasks.</li>         
       </ul>
-    
-    </section>
 
  <section id="education">
     <h2>Education</h2>
