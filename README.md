@@ -9,8 +9,8 @@
 
 <body>
   <header>
-    <h1>John Doe</h1>
-    <h2>Web Developer</h2>
+    <h1> Negash Fufa </h1>
+    <h2> Data Scientist </h2>
   </header>
 
   <nav>
@@ -26,37 +26,65 @@
   <main>
     <section id="about">
       <h2>About Me</h2>
-      <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
+      <p>Hi! My name is Negash. I am a recent Data Science graduate (MS) and IT professional currently looking for an internship, entry level to any level open position. I been in IT field for more than 10 years and recently upgraded into a Data Science. I have education and skills in three core scripting languages: Python, SQL and R. I completed projects on Machine Learning, Data Manipulation, Data Cleaning, Data Visualization, and Exploratory Data Analysis (EDA) using R and Python Libraries such as Pandas, and NumPy. I also made Data Visualization, Dashboard creation and story telling projects with Tableau and Qlik Sense. I am looking to join an innovative organization, where I can apply my knowledge and skills as a Data Scientist, ML/Data Engineer or related field.
+
+Here are my skill areas and the courses I completed in Data Science Graduate program: 
+ - R for Data Analytics, Python, and Statistics (statistical modeling)
+ - Python and libraries (NumPy, Pandas, Visualization with Matplotlib & Seaborn), 
+ - R and packages (ggplot, dplyr, Exploratory Data Analysis).
+ - SQL - Basic, Intermediate, Advanced (PostgreSQL)
+ - Python (Basic - advanced level) 
+ - Data Visualization with Qlik and Tableau (Dashboard Design and Storytelling with Data)
+ - Foundations of Machine Learning Models 
+ - Machine Learning Application 
+ - Data Manipulation (Data cleaning, wrangling, aggregation and data analysis (EDA)
+ with Pandas and NumPy)
+ - Capstone Project - Ethics/Phil issues on AI/ML.</p>
     </section>
 
     <section id="skills">
       <h2>Skills</h2>
       <ul>
-        <li>HTML</li>
-        <li>CSS</li>
-        <li>JavaScript</li>
-        <li>PHP</li>
-        <li>WordPress</li>
+        <li>SQL</li>
+        <li>Python</li>
+        <li>R</li>
+        <li>Pandas</li>
+        <li>Numpy</li>
+        <li>Sklearn</li>
+        <li>Matplotlib</li>
+        <li>Tableau</li>
+        <li>Qlik Sense</li>
+        <li>Java</li>
+        <li>MS Access</li>
+        <li>MS Excel</li>
+        <li>MS Office</li>
+        <li>PostgreSQL</li>
       </ul>
     </section>
 
     <section id="experience">
       <h2>Experience</h2>
-      <h3>Web Developer</h3>
-      <h4>ACME Inc. - Jan 2020 - Present</h4>
+      <h3>Adjunct Professor / PT Computer Instructor</h3>
+      <h4>Coppin State University - Aug 2012 - Dec 2020</h4>
       <ul>
-        <li>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</li>
-        <li>Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</li>
+        <li> 1/ Delivered Computer Courses(IT/MIS) 
+ - Hardware, Software, Windows OS
+ - Internet and Network (WAN/LAN)
+ - Cloud Computing (IaaS, SaaS, PaaS),
+ - Computer Security, File and Data Management
+ - Microsoft Office: Access Database, Excel Spreadsheet, Word, Powerpoint
+ - Data Analytics and Geographic Information System (GIS)
+ - Data Analytics and SPSS</li>
+        <li>2/ Delivered Economics Course: Business & Entrepreneurship.</li>
       </ul>
-      <h3>Web Designer</h3>
-      <h4>XYZ Inc. - Apr 2018 - Dec 2019</h4>
+      <h3>IT Consultant - Short Term Project Assignments</h3>
+      <h4>UMMS, McCormick.inc, Loyola University - Sep 2015 - Aug 2016</h4>
       <ul>
-        <li>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</li>
-        <li>Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</li>
+        <li>Worked as an IT Consultant at UMMS, McCormick and Loyola University through Robert Half & Connexus Staffing Agencies.</li>
       </ul>
     </section>
 
     <section id="education">
       <h2>Education</h2>
-      <h3>Bachelor's Degree in Computer Science</h3>
-      <h4>University of Technology - Sep 2014 - Jun
+      <h3>Masters Degree in Data Science</h3>
+      <h4>Eastern University, PA - Jan 2021 - Aug 2022<h4> 
