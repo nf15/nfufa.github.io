@@ -1,11 +1,5 @@
-# nfufa.github.io
-
-<!doctype html>
-<html>
-
 <head>
   <title> Resume Portfolio </title>
-  <link rel="stylesheet" href="style.css">
 </head>
 
 <body>
