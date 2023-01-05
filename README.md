@@ -19,7 +19,8 @@
       <h2>About Me</h2>
       <p>Hi! My name is Negash. I am a recent Data Science graduate (MS) and IT professional currently looking for an internship, entry level to any level open position. I been in IT field for more than 10 years and recently upgraded into a Data Science. I have education and skills in three core scripting languages: Python, SQL and R. I completed projects on Machine Learning, Data Manipulation, Data Cleaning, Data Visualization, and Exploratory Data Analysis (EDA) using R and Python Libraries such as Pandas, and NumPy. I also made Data Visualization, Dashboard creation and story telling projects with Tableau and Qlik Sense. I am looking to join an innovative organization, where I can apply my knowledge and skills as a Data Scientist, ML/Data Engineer or related field.
 
-
+ </section>
+   
 Here are the project areas and the courses I completed in Data Science Graduate program: 
   
 <ul>
