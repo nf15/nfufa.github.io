@@ -74,17 +74,17 @@ Here are the project areas and the courses I completed in Data Science Graduate 
  - Data Analytics and SPSS</li>
         <li>2/ Delivered Economics Course: Business & Entrepreneurship.</li>
       
-  
-      <h3>IT Consultant - Short Term Assignments</h3>
-      <h4>UMMS, McCormick.inc, Loyola University - Sep 2015 - Aug 2016</h4>
+  </ul>
+     <h3>IT Consultant - Short Term Assignments</h3>
+     <h4>UMMS, McCormick.inc, Loyola University - Sep 2015 - Aug 2016</h4>
      
         <li>Worked as an IT Consultant at UMMS, McCormick and Loyola University through Robert Half & Connexus Staffing Agencies.</li>
-      </ul>
+    
     </section>
 
-    <section id="education">
-      <h2>Education</h2>
-      <h3>Masters Degree in Data Science</h3>
-      <h4>Eastern University, PA - Jan 2021 - Aug 2022</h4> 
+ <section id="education">
+    <h2>Education</h2>
+    <h3>Masters Degree in Data Science</h3>
+    <h4>Eastern University, PA - Jan 2021 - Aug 2022</h4> 
 </html>
 
