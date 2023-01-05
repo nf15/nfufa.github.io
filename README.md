@@ -58,7 +58,6 @@ Here are the project areas and the courses I completed in Data Science Graduate 
         <li>PostgreSQL</li>
       </ul>
     
-    </section>
 
  <section id="experience">
      <h2>Experience</h2>
