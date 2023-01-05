@@ -22,7 +22,7 @@
 
 Here are my skill areas and the courses I completed in Data Science Graduate program: 
   
- <ul>
+<ul>
   <li> R for Data Analytics, Python, and Statistics (statistical modeling) </li>
   <li> Python and libraries (NumPy, Pandas, Visualization with Matplotlib & Seaborn)</li> 
   <li> R and packages (ggplot, dplyr, Exploratory Data Analysis)</li>
@@ -34,13 +34,15 @@ Here are my skill areas and the courses I completed in Data Science Graduate pro
   <li> Data Manipulation (Data cleaning, wrangling, aggregation and data analysis (EDA) 
  with Pandas and NumPy) </li>
   <li> Capstone Project - Ethics/Phil issues on AI/ML</li>
- 
+</ul> 
+     
+</p>
   
  </section>
 
-    <section id="skills">
-      <h2>Skills</h2>
-     <p>
+<section id="skills">
+   <h2>Skills</h2>
+   <p>
       <ul>
         <li>SQL</li>
         <li>Python</li>
