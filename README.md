@@ -4,7 +4,7 @@
 
 <head>
   <title>Resume Portfolio</title>
-  <link rel="stylesheet" href="style.css">
+  <link rel="stylesheet" href="style.css"/>
 </head>
 
 <body>
