@@ -59,13 +59,12 @@ Here are the project areas and the courses I completed in Data Science Graduate 
      </p>
     </section>
 
-    <section id="experience">
-      <h2>Experience</h2>
-      <h3>Adjunct Professor / PT Computer Instructor</h3>
-      <h4>Coppin State University - Aug 2012 - Dec 2020</h4>
-     
-      <ul>
-        <li> 1/ Delivered Computer Courses(IT/MIS) 
+ <section id="experience">
+     <h2>Experience</h2>
+     <h3>Adjunct Professor / PT Computer Instructor</h3>
+     <h4>Coppin State University - Aug 2012 - Dec 2020</h4>
+         <ul>
+            <li> 1/ Delivered Computer Courses(IT/MIS) 
  - Hardware, Software, Windows OS
  - Internet and Network (WAN/LAN)
  - Cloud Computing (IaaS, SaaS, PaaS),
@@ -75,7 +74,8 @@ Here are the project areas and the courses I completed in Data Science Graduate 
  - Data Analytics and SPSS</li>
         <li>2/ Delivered Economics Course: Business & Entrepreneurship.</li>
       </ul>
-      <h3>IT Consultant - Short Term Project Assignments</h3>
+  
+      <h3>IT Consultant - Short Term Assignments</h3>
       <h4>UMMS, McCormick.inc, Loyola University - Sep 2015 - Aug 2016</h4>
       <ul>
         <li>Worked as an IT Consultant at UMMS, McCormick and Loyola University through Robert Half & Connexus Staffing Agencies.</li>
