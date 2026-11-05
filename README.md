@@ -17,11 +17,11 @@
   <main>
     <section id="about">
       <h2>About Me</h2>
-      <p>Hi! My name is Negash. I am a recent Data Science graduate (MS) and IT professional currently looking for an internship, entry level to any level open position. I have been in IT field for more than 10 years and recently upgraded into a Data Science. I have education and skills in three core scripting languages: Python, SQL and R. I completed projects on Machine Learning, Data Manipulation, Data Cleaning, Data Visualization, and Exploratory Data Analysis (EDA) using R and Python Libraries such as Pandas, and NumPy. I also made Data Visualization, Dashboard creation and story telling projects with Tableau and Qlik Sense. I am looking to join an innovative organization, where I can apply my knowledge and skills as a Data Scientist, ML/Data Engineer or related field.
+      <p>Hi! My name is Negash. I am a recent Data Science graduate (MS), currently pursuing my PhD in IT (with a Data Science specialization), and an IT professional seeking an internship or an entry-level position. I have been in the IT field for more than 15 years, recently earned an MS in Data Science in 2023, and am closer to completing my PhD (Expected in 2027). I have education and skills in three core scripting languages: Python, SQL, and R. I completed projects on Machine Learning, Data Manipulation, Data Cleaning, Data Visualization, and Exploratory Data Analysis (EDA) using R and Python Libraries such as Pandas and NumPy. I also created data visualizations, dashboards, and storytelling projects using Tableau and Qlik Sense. I am looking to join an innovative organization where I can apply my knowledge and skills as an IT consultant, Systems Engineer, Data Scientist, ML/Data Engineer, or in any IT-related field from Basic to advanced.
 
 <section>
    
-Here are the project areas and the courses I completed in Data Science Graduate program: 
+Review my Portofolio/CV/Resume for my recent skills and experiences. Here are the project areas and the courses I completed in Data Science Graduate program: 
   
 <ul>
   <li> R for Data Analytics, Python, and Statistics (statistical modeling) </li>
