@@ -110,4 +110,9 @@ Important: My complete recent information, PhD Studies, skills, and work experie
     <h3>2) Master's Degree in Data Science</h3>
     <h4>Eastern University, PA - Graduated in 2023</h4> 
 
+  <section id="contact">
+    <h2>Contact</h2>
+    <h3>nfufa13@gmail.com (Personal)</h3>
+    <h3>admin@raiempower.com (LLC)</h3>
+
 
